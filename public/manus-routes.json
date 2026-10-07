@@ -1,0 +1,12 @@
+{
+  "routes": [
+    { "path": "/", "title": "Overview / Command Center" },
+    { "path": "/waterbodies", "title": "Waterbody Explorer" },
+    { "path": "/waterbodies/:id", "title": "Waterbody Detail / Analysis" },
+    { "path": "/response-analysis", "title": "Rainfall–Surface Water Response" },
+    { "path": "/vulnerability-map", "title": "Vulnerability Map" },
+    { "path": "/insights", "title": "Insights & Recommendations" },
+    { "path": "/methodology", "title": "How HydroNex Works" },
+    { "path": "/system-status", "title": "System / Data Status" }
+  ]
+}
